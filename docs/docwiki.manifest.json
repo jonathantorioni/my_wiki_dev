@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "tree": [
+    {
+      "type": "category",
+      "label": "Introdução",
+      "items": [
+        {
+          "type": "doc",
+          "id": "bem-vindo"
+        }
+      ]
+    }
+  ]
+}
