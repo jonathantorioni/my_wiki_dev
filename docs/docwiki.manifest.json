@@ -10,6 +10,16 @@
           "id": "bem-vindo"
         }
       ]
+    },
+    {
+      "type": "category",
+      "label": "Compras",
+      "items": [
+        {
+          "type": "doc",
+          "id": "central-de-compras"
+        }
+      ]
     }
   ]
 }
