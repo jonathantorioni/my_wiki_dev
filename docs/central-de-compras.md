@@ -1,3 +1,8 @@
+---
+id: central-de-compras
+title: Central de Compras
+---
+
 # Central de Compras OverView
 
 **Mapa mental de funcionamento do central de compras**
