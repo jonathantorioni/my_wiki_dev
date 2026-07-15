@@ -8,3 +8,5 @@ title: Central de compras
 Teste de publicação de documentação.
 
 ![mmcentralcompras-2.png](static/mmcentralcompras-2.png)
+
+[[forecast]]
