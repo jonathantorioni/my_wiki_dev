@@ -5,4 +5,4 @@ title: Central de compras
 
 # Central de compras
 
-Escreva aqui.
+Teste de publicação de documentação.
