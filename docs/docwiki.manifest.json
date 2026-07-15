@@ -24,6 +24,16 @@
           "id": "forecast"
         }
       ]
+    },
+    {
+      "type": "category",
+      "label": "Geral",
+      "items": [
+        {
+          "type": "doc",
+          "id": "teste"
+        }
+      ]
     }
   ]
 }
