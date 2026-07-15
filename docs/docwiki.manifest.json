@@ -18,6 +18,10 @@
         {
           "type": "doc",
           "id": "central-de-compras"
+        },
+        {
+          "type": "doc",
+          "id": "forecast"
         }
       ]
     }
