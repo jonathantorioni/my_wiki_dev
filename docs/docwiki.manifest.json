@@ -222,6 +222,46 @@
         {
           "type": "doc",
           "id": "cestbasprw"
+        },
+        {
+          "type": "doc",
+          "id": "sk-crossdocking"
+        },
+        {
+          "type": "doc",
+          "id": "abastecimento-automatico-central-de-compras"
+        },
+        {
+          "type": "doc",
+          "id": "exclusao-de-abastecimentos-automaticos"
+        },
+        {
+          "type": "doc",
+          "id": "new-flag-de-produtos-importador"
+        },
+        {
+          "type": "doc",
+          "id": "abc-regras-de-cobertura-ag"
+        },
+        {
+          "type": "doc",
+          "id": "wizzard-central-de-compras"
+        },
+        {
+          "type": "doc",
+          "id": "comprador-x-superior"
+        },
+        {
+          "type": "doc",
+          "id": "new-flag-de-produtos"
+        },
+        {
+          "type": "doc",
+          "id": "fornecedor-x-filial-entrega"
+        },
+        {
+          "type": "doc",
+          "id": "central-de-compras-overview"
         }
       ]
     }
