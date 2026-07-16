@@ -1,5 +1,5 @@
 ---
-id: shprccomprw
+id: central-de-compras
 title: SHPRCCOM.PRW
 ---
 
